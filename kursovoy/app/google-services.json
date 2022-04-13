@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123008687247",
+    "project_id": "avrora-75731",
+    "storage_bucket": "avrora-75731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123008687247:android:0fa6090541ee9c17aa24fa",
+        "android_client_info": {
+          "package_name": "com.example.kursovoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123008687247-k55qq6arof2120s7pmuhe2tk9f6upb5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByKUJAq58PxR5zMs6QQzGnBk8bMKepYzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123008687247-k55qq6arof2120s7pmuhe2tk9f6upb5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
